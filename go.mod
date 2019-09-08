@@ -1,4 +1,4 @@
-module github.com/atreya2011/hello-gorm.git
+module github.com/atreya2011/hello-gorm
 
 go 1.12
 
